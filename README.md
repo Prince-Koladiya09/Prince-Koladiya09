@@ -37,7 +37,7 @@
 - 🧠 Fine-tuned transformers for **state-of-the-art** accuracy.
 - 🔍 Model explainability with **LIME** & error analysis.
 
-🔗 **[View Project on GitHub](https://github.com/Prince-Koladiya09)**
+🔗 **[View Project on GitHub](https://github.com/Prince-Koladiya09/Movie_sentiment_analysis)**
 
 ---
 
@@ -48,7 +48,7 @@
 - 🔊 Visual + audio cues for sorting steps.
 - 📈 Performance graph & dynamic array generation.
 
-🚀 **[Explore Live Demo](https://github.com/Prince-Koladiya09/Sorting-Visualizer)**
+🚀 **[Explore Live Demo](https://sortexplorer.netlify.app/)**
 
 ---
 
