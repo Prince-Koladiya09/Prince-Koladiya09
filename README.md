@@ -3,9 +3,13 @@
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Prince Koladiya</span>! 👋</h1>
 
 <p align="center">
-🌟 A Passionate Computer Science Student<br>
-💡 Exploring the worlds of <strong>AI/ML</strong> & <strong>Software Engineering</strong><br>
-🚀 Fueled by curiosity, creativity, and caffeine ☕
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=450&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+Software+Dev;Exploring+Code+%26+Curiosity+24%2F7;Fueled+by+Creativity+%26+Caffeine+☕" alt="Typing SVG" />
+</p>
+
+<p align="center">
+🌟 A Passionate Computer Science Student <br>
+💡 Exploring the worlds of <strong>AI/ML</strong> & <strong>Software Engineering</strong> <br>
+🎯 Problem Solver | 💬 Collaborator | 🌱 Lifelong Learner
 </p>
 
 ---
@@ -15,13 +19,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -74,10 +79,13 @@
 
 ---
 
-<!-- Add subtle animated background using SVG (for GitHub Profile READMEs) -->
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prince-Koladiya09/Prince-Koladiya09/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/Prince-Koladiya09/Prince-Koladiya09/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
+
+---
 
 <p align="center">✨ Keep exploring, keep building, keep vibing! ✨</p>
 
