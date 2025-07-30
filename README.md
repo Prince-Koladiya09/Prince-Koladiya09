@@ -3,12 +3,21 @@
 .profile-container {
 font-family: 'Inter', sans-serif;
 color: #f0f2f5; / Light grey text /
-background: linear-gradient(135deg, #1a202c, #2d3748); / Dark gradient background /
+background: linear-gradient(135deg, #1a202c, #2d3748, #3a475a, #2d3748); / Dark gradient background with more colors /
+background-size: 400% 400%; / Larger background for animation /
+animation: gradientAnimation 15s ease infinite; / Smooth, infinite animation /
 padding: 20px;
 border-radius: 15px;
 box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
 text-align: center;
 overflow: hidden; / Ensures animations don't spill */
+}
+
+/* Animated Background Effect */
+@keyframes gradientAnimation {
+0% { background-position: 0% 50%; }
+50% { background-position: 100% 50%; }
+100% { background-position: 0% 50%; }
 }
 
 /* Header Section /
@@ -223,11 +232,11 @@ text-decoration: underline;
 <div class="profile-container">
 <div class="header-section">
 <h1>Hi there, I'm Prince Koladiya! 👋</h1>
-<p>Highly motivated Computer Science student passionate about AI/ML & Software Engineering.</p>
+<p>Highly motivated Computer Science student passionate about AI/ML & Software Engineering. 🚀</p>
 </div>
 
 <div class="skills-section">
-<h2>Skills & Technologies</h2>
+<h2>Skills & Technologies ✨</h2>
 <div class="skill-badges">
 <!-- You can use popular badge services or custom SVGs -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" class="skill-badge" alt="Python">
@@ -244,11 +253,11 @@ text-decoration: underline;
 </div>
 
 <div class="projects-section">
-<h2>Featured Projects</h2>
+<h2>Featured Projects 💡</h2>
 <div class="project-item">
 <h3>IMDB Sentiment Analysis: Baseline to Transformers</h3>
 <p>Engineered a comprehensive 10-step ML pipeline for sentiment analysis on IMDB reviews. Benchmarked traditional models against advanced RNN (LSTM) and state-of-the-art Transformer (DistilBERT) architectures, achieving superior accuracy. Utilized LIME for model interpretability and performed qualitative error analysis.</p>
-<a href="https://www.google.com/search?q=https://github.com/Prince-Koladiya09/YOUR_IMDB_REPO" target="_blank">View Project on GitHub</a>
+<a href="https://www.google.com/search?q=https://github.com/Prince-Koladiya09/" target="_blank">View Project on GitHub</a>
 </div>
 <div class="project-item">
 <h3>Sorting Algorithm Visualizer</h3>
@@ -259,7 +268,7 @@ text-decoration: underline;
 </div>
 
 <div class="stats-section">
-<h2>My GitHub Stats</h2>
+<h2>My GitHub Stats 📈</h2>
 <div class="stats-grid">
 <!-- GitHub Stats Card (requires external service like GitHub Readme Stats) -->
 <div class="stat-card">
@@ -273,6 +282,6 @@ text-decoration: underline;
 </div>
 
 <div class="footer-section">
-<p>Connect with me on <a href="https://www.google.com/search?q=https://linkedin.com/in/prince-koladiya-47782727a" target="_blank">LinkedIn</a> or explore more on my <a href="https://github.com/Prince-Koladiya09" target="_blank">GitHub profile</a>.</p>
+<p>Connect with me on <a href="https://www.google.com/search?q=https://linkedin.com/in/prince-koladiya-47782727a" target="_blank">LinkedIn</a> or explore more on my <a href="https://github.com/Prince-Koladiya09" target="_blank">GitHub profile</a>. ✨</p>
 </div>
 </div>
