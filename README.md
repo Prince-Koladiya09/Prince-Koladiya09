@@ -1,62 +1,84 @@
-Hi there, I'm Prince Koladiya! 👋
-Highly motivated Computer Science student passionate about AI/ML & Software Engineering. 🚀
+<!-- Profile README starts here -->
 
-Skills & Technologies ✨
-<!-- Skill Badges from Shields.io - these are images, so they work! -->
+<h1 align="center">Hi there, I'm <span style="color:#00bfff;">Prince Koladiya</span>! 👋</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-D00000%3Fstyle%3Dfor-the-badge%26logo%3Dkeras%26logoColor%3Dwhite" alt="Keras">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+🌟 A Passionate Computer Science Student<br>
+💡 Exploring the worlds of <strong>AI/ML</strong> & <strong>Software Engineering</strong><br>
+🚀 Fueled by curiosity, creativity, and caffeine ☕
 </p>
 
-Featured Projects 💡
-IMDB Sentiment Analysis: Baseline to Transformers
-Tools: Python (TensorFlow, Keras, Hugging Face Transformers, Scikit-learn, NLTK, Pandas, NumPy, Matplotlib, Seaborn, LIME)
+---
 
-Engineered a comprehensive 10-step machine learning pipeline for sentiment analysis on IMDB movie reviews, demonstrating end-to-end ML development proficiency.
-
-Benchmarked performance by implementing and comparing traditional models (TF-IDF with Naive Bayes, GridSearchCV-tuned Logistic Regression) against advanced deep learning architectures.
-
-Developed and trained an RNN (Bidirectional LSTM) model, significantly improving sequence understanding and prediction accuracy over baselines.
-
-Achieved state-of-the-art accuracy by fine-tuning a pre-trained Transformer model (DistilBERT), showcasing expertise in leveraging cutting-edge NLP techniques.
-
-Conducted robust model evaluation using diverse metrics and confusion matrices, providing clear insights into model strengths and weaknesses.
-
-Utilized LIME for model interpretability and performed qualitative error analysis, enhancing transparency and debugging capabilities for complex AI systems.
-
-View Project on GitHub
-
-Sorting Algorithm Visualizer
-Tools: JavaScript (HTML, CSS), Tone.js, Chart.js
-
-Created a web-based interactive visualizer for sorting algorithms (Merge Sort, Quick Sort, Selection Sort).
-
-Dynamically generates arrays for visualization.
-
-Animates the sorting process step-by-step with visual cues and sound effects, and provides a performance graph comparing complexities.
-
-Explore Live Demo
-
-My GitHub Stats 📈
-<!-- GitHub Stats Card (requires external service like GitHub Readme Stats) -->
+## ⚙️ Skills & Technologies
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrince-Koladiya09%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Prince's GitHub Stats"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrince-Koladiya09%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+## 🌟 Featured Projects
+
+### 🎬 IMDB Sentiment Analysis
+> Tools: `TensorFlow`, `Keras`, `Scikit-learn`, `Transformers`, `LIME`, `Pandas`, `Matplotlib`
+
+- ✅ Built a **10-step pipeline** for IMDB sentiment analysis.
+- 📊 Compared traditional models with advanced **RNNs** (Bi-LSTM) & **DistilBERT**.
+- 🧠 Fine-tuned transformers for **state-of-the-art** accuracy.
+- 🔍 Model explainability with **LIME** & error analysis.
+
+🔗 **[View Project on GitHub](https://github.com/Prince-Koladiya09)**
+
+---
+
+### 🔢 Sorting Algorithm Visualizer
+> Tools: `JavaScript`, `Tone.js`, `Chart.js`, `HTML/CSS`
+
+- 🎨 Interactive visualizer for **Merge**, **Quick**, & **Selection Sort**.
+- 🔊 Visual + audio cues for sorting steps.
+- 📈 Performance graph & dynamic array generation.
+
+🚀 **[Explore Live Demo](https://github.com/Prince-Koladiya09/Sorting-Visualizer)**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-Connect with me on
-<a href="https://www.google.com/search?q=https://linkedin.com/in/prince-koladiya-47782727a" target="_blank">LinkedIn</a>
-or explore more on my
-<a href="https://github.com/Prince-Koladiya09" target="_blank">GitHub profile</a>. ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&theme=radical&count_private=true" alt="Prince's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/prince-koladiya-47782727a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Prince-Koladiya09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Add subtle animated background using SVG (for GitHub Profile READMEs) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prince-Koladiya09/Prince-Koladiya09/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;"/>
+</p>
+
+<p align="center">✨ Keep exploring, keep building, keep vibing! ✨</p>
+
+<!-- Profile README ends here -->
