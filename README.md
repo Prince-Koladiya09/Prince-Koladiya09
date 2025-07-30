@@ -79,14 +79,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prince-Koladiya09/Prince-Koladiya09/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
----
-
 <p align="center">✨ Keep exploring, keep building, keep vibing! ✨</p>
 
 <!-- Profile README ends here -->
