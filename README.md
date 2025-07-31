@@ -3,10 +3,6 @@
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Prince Koladiya</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=450&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+Software+Dev;Exploring+Code+%26+Curiosity+24%2F7;Fueled+by+Creativity+%26+Caffeine+☕" alt="Typing SVG" />
-</p>
-
-<p align="center">
 🌟 A Passionate Computer Science Student <br>
 💡 Exploring the worlds of <strong>AI/ML</strong> & <strong>Software Engineering</strong> <br>
 🎯 Problem Solver | 💬 Collaborator | 🌱 Lifelong Learner
