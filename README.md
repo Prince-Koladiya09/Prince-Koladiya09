@@ -51,14 +51,7 @@
 
 🚀 **[Explore Live Demo](https://sortexplorer.netlify.app/)**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&theme=radical&count_private=true" alt="Prince's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+--
 
 ---
 
