@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0a2e,70:0d1f4f,100:00D9FF&height=220&section=header&text=Prince%20Koladiya&fontSize=65&fontAlignY=40&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Algorithm%20Artist&descAlignY=62&descSize=17&animation=fadeIn&stroke=00D9FF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0a0a2e,100:0d2a6e&height=260&section=header&text=Prince%20Koladiya&fontSize=72&fontAlignY=42&fontColor=00D9FF&fontAlign=50&desc=🤖%20AI%20Engineer%20%20•%20%20🌐%20Full%20Stack%20Dev%20%20•%20%20🎯%20Algorithm%20Artist&descAlignY=62&descSize=20&descAlign=50&animation=fadeIn&descFontColor=ffffff"/>
 
 </div>
 
@@ -96,73 +96,6 @@ class PrinceKoladiya:
 ### 🗄️ Databases · Systems · Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp,java,git,github&theme=dark&perline=6"/>
-
-</div>
-
----
-
-## 🚀 `featured --projects`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎬 IMDB Sentiment Analysis</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square"/>
-<img src="https://img.shields.io/badge/XAI-8B5CF6?style=flat-square"/>
-</p>
-
-> End-to-end **10-step ML pipeline** — from raw IMDB reviews to production-ready sentiment classification with explainable AI baked in.
-
-| | |
-|---|---|
-| 🧠 | Fine-tuned **DistilBERT** transformer |
-| 🔁 | **Bi-LSTM** RNN architecture |
-| 🔍 | **LIME** model explainability |
-| 📊 | Benchmarks + error analysis |
-
-`TensorFlow` `Keras` `HuggingFace` `LIME` `Scikit-learn`
-
-<p align="center">
-<a href="https://github.com/Prince-Koladiya09/Movie_sentiment_analysis">
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🎵 Sorting Visualizer</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/DSA-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Audio-00C7B7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interactive-F7DF1E?style=flat-square&logoColor=black"/>
-</p>
-
-> Watch algorithms **come alive** — real-time audio feedback, animated bars, and live performance graphs. Sorting has never been this satisfying.
-
-| | |
-|---|---|
-| 🎨 | Merge, Quick & Selection Sort |
-| 🔊 | Audio steps via **Tone.js** |
-| 📈 | Performance graphs via **Chart.js** |
-| ⚡ | Dynamic array generation |
-
-`JavaScript` `Tone.js` `Chart.js` `HTML5` `CSS3`
-
-<p align="center">
-<a href="https://sortexplorer.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
 
 </div>
 
