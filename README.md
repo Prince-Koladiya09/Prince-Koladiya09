@@ -1,150 +1,261 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
-██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
-██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗  
-██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝  
-██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0a2e,70:0d1f4f,100:00D9FF&height=220&section=header&text=Prince%20Koladiya&fontSize=65&fontAlignY=40&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Algorithm%20Artist&descAlignY=62&descSize=17&animation=fadeIn&stroke=00D9FF&strokeWidth=1"/>
 
-# `> Hello World, I'm Prince Koladiya`
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%2F+ML+Engineer+in+the+Making+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+Turning+raw+data+into+intelligent+systems;%F0%9F%A4%96+LLMs+%7C+Agents+%7C+Transformers+%7C+RAG;%F0%9F%8C%90+React+%7C+FastAPI+%7C+PyTorch+%7C+CrewAI;%F0%9F%8E%AF+Visualizing+the+invisible+in+algorithms;%F0%9F%9A%80+CS+Student+%E2%86%92+Building+the+Future" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-koladiya-47782727a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://sortexplorer.netlify.app/)
+<br/><br/>
+
+<a href="https://linkedin.com/in/prince-koladiya-47782727a">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Prince-Koladiya09">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://sortexplorer.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Prince-Koladiya09&style=for-the-badge&color=00D9FF&label=VISITORS"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## `$ whoami`
+## 🧠 `whoami`
 
-```yaml
-name: Prince Koladiya
-role: CS Student & AI/ML Enthusiast
-location: India 🇮🇳
-focus:
-  - Artificial Intelligence & Machine Learning
-  - Full Stack Web Development
-  - Algorithm Design & Problem Solving
-currently_learning:
-  - Large Language Models (LLMs)
-  - Agentic AI Frameworks
-  - Transformer Architectures
-open_to: Collaborations, Internships, Open Source
+```python
+class PrinceKoladiya:
+    
+    name        = "Prince Koladiya"
+    origin      = "India 🇮🇳"
+    role        = ["CS Student", "AI/ML Engineer", "Full Stack Dev"]
+    
+    superpowers = [
+        "Building LLM-powered applications",
+        "Designing interactive algorithm visualizers",
+        "Fine-tuning Transformers & training RNNs",
+        "Crafting fast, scalable REST APIs",
+        "Turning messy data → clean insights",
+    ]
+
+    current_quest = {
+        "learning"  : ["RAG Pipelines", "Agentic AI", "Graph Algorithms"],
+        "building"  : "AI-first full-stack products",
+        "obsessed_with": "Making complex things beautifully simple",
+    }
+    
+    fun_fact = "I make sorting algorithms sing 🎵"
+
+    def say_hi(self):
+        print("Let's build something legendary. Together. 🚀")
 ```
 
 <br clear="right"/>
 
 ---
 
-## `$ ls ./skills`
+## ⚡ `tech --stack`
 
-### 🤖 AI / ML / NLP
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LIME-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-00C7B7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-</p>
+### 🤖 AI · ML · NLP · Agents
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=6"/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-</p>
+<br/>
 
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME_XAI-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI_🤝-00C7B7?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## `$ cat ./projects`
+### 🌐 Frontend · Backend · APIs
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,flask,fastapi,html,css&theme=dark&perline=9"/>
+
+<br/>
+
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Tone.js](https://img.shields.io/badge/Tone.js-🎵_Audio-1a1a2e?style=flat-square&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-00D9FF?style=flat-square&logo=fastapi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🗄️ Databases · Systems · Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp,java,git,github&theme=dark&perline=6"/>
+
+</div>
+
+---
+
+## 🚀 `featured --projects`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎬 IMDB Sentiment Analysis
-> *NLP · Transformers · Explainability*
+<h3 align="center">🎬 IMDB Sentiment Analysis</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/XAI-8B5CF6?style=flat-square"/>
+</p>
 
-Built a **10-step ML pipeline** comparing traditional models vs. advanced architectures.
+> End-to-end **10-step ML pipeline** — from raw IMDB reviews to production-ready sentiment classification with explainable AI baked in.
 
-**Highlights:**
-- 🧠 Fine-tuned **DistilBERT** transformer
-- 🔁 Implemented **Bi-LSTM** RNN architecture
-- 🔍 Model explainability via **LIME**
-- 📊 Full error analysis & benchmarking
+| | |
+|---|---|
+| 🧠 | Fine-tuned **DistilBERT** transformer |
+| 🔁 | **Bi-LSTM** RNN architecture |
+| 🔍 | **LIME** model explainability |
+| 📊 | Benchmarks + error analysis |
 
-**Stack:** `TensorFlow` `Keras` `HuggingFace` `LIME` `Scikit-learn` `Pandas`
+`TensorFlow` `Keras` `HuggingFace` `LIME` `Scikit-learn`
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/Movie_sentiment_analysis)
+<p align="center">
+<a href="https://github.com/Prince-Koladiya09/Movie_sentiment_analysis">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔢 Sorting Algorithm Visualizer
-> *DSA · Web · Audio Visualization*
+<h3 align="center">🎵 Sorting Visualizer</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/DSA-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Audio-00C7B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interactive-F7DF1E?style=flat-square&logoColor=black"/>
+</p>
 
-An interactive tool that **sees and hears** sorting algorithms in real time.
+> Watch algorithms **come alive** — real-time audio feedback, animated bars, and live performance graphs. Sorting has never been this satisfying.
 
-**Highlights:**
-- 🎨 Live animations for **Merge, Quick & Selection Sort**
-- 🔊 Audio feedback via **Tone.js**
-- 📈 Performance comparison graphs with **Chart.js**
-- ⚡ Dynamic array size control
+| | |
+|---|---|
+| 🎨 | Merge, Quick & Selection Sort |
+| 🔊 | Audio steps via **Tone.js** |
+| 📈 | Performance graphs via **Chart.js** |
+| ⚡ | Dynamic array generation |
 
-**Stack:** `JavaScript` `Tone.js` `Chart.js` `HTML/CSS`
+`JavaScript` `Tone.js` `Chart.js` `HTML5` `CSS3`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sortexplorer.netlify.app/)
+<p align="center">
+<a href="https://sortexplorer.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## `$ cat ./stats`
+## 🔥 `git log --exciting-projects`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+> *Where algorithms meet creativity and ideas become shipped products*
+
+</div>
+
+---
+
+### 🕸️ Graph Algorithm Visualizer
+
+<img align="right" width="120" src="https://img.shields.io/badge/Interactive-Graph%20DSA-00D9FF?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+> An immersive, interactive playground for exploring **graph traversal & pathfinding algorithms** in real time — built for learners who want to *see* the logic unfold step by step.
+
+**What it does:**
+- 🔵 Visualizes **BFS, DFS, Dijkstra's & A\* pathfinding** on dynamic node-edge graphs
+- 🖱️ Drag-and-drop node creation with weighted & unweighted edge support
+- ⏯️ Step-through mode to pause, rewind, and understand each traversal decision
+- 🎨 Color-coded visited nodes, frontier nodes, and shortest path highlights
+
+**Stack:** `JavaScript` `HTML5 Canvas` `CSS3` `Graph Theory`
+
+[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/graph_algo_visualizer)
+
+---
+
+### ✂️ SnipURL — Smart URL Shortener
+
+<img align="right" width="120" src="https://img.shields.io/badge/Full%20Stack-URL%20Tool-FF6B6B?style=for-the-badge&logo=link&logoColor=white"/>
+
+> A **full-stack URL shortening service** that takes long, messy links and transforms them into clean, shareable snips — with analytics and custom alias support.
+
+**What it does:**
+- 🔗 Generates short, unique slugs for any URL instantly
+- 📊 Tracks click counts, referrers, and geo-location analytics per link
+- ✏️ Custom alias support — create branded short links (e.g. `snip/myproject`)
+- 🔒 Handles redirect logic, 404 gracefully, and rate limiting on the backend
+
+**Stack:** `FastAPI` `MongoDB` `React` `TypeScript` `Vite` `Pydantic`
+
+[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/snip_url)
+
+---
+
+### 📊 Sentiment Dashboard
+
+<img align="right" width="120" src="https://img.shields.io/badge/NLP-Dashboard-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+> A **real-time sentiment analysis dashboard** that turns raw text data — product reviews, tweets, feedback — into stunning visual insights, powered by ML models under the hood.
+
+**What it does:**
+- 🧠 Runs **VADER + Transformer-based** sentiment classification on uploaded text/CSV
+- 📈 Live charts: sentiment distribution, confidence scores, and trend lines over time
+- 🔍 Token-level attention heatmaps — see *exactly* which words drove the prediction
+- 📤 Export-ready: download analyzed results as CSV with sentiment labels & scores
+
+**Stack:** `Python` `Streamlit` `HuggingFace` `Scikit-learn` `Plotly` `Pandas` `NLTK`
+
+[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/sentiment_dashboard)
+
+---
+
+## 📊 `git stats --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_radius=12&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00D9FF&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prince-Koladiya09&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Prince-Koladiya09&theme=tokyonight&hide_border=true&background=050510&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555577&border_radius=12" width="720"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Prince%27s%20Contribution%20Graph&bg_color=050510&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true&hide_border=true&border_radius=12" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 `achievements --display`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prince-Koladiya09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 
 </div>
 
@@ -152,18 +263,16 @@ An interactive tool that **sees and hears** sorting algorithms in real time.
 
 <div align="center">
 
-## `$ echo "Let's build something amazing"`
+### 💬 Random Dev Quote
 
-*Open to collaborations, internships, and interesting conversations.*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="720"/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-koladiya-47782727a)
+</div>
 
-<br/>
+---
 
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Prince-Koladiya09&color=00D9FF&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:0d1f4f,80:0a0a2e,100:050510&height=140&section=footer&text=Open%20to%20Collabs%20%26%20Internships%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn"/>
 
 </div>
