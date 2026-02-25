@@ -34,18 +34,17 @@ class PrinceKoladiya:
     
     name        = "Prince Koladiya"
     origin      = "India 🇮🇳"
-    role        = ["CS Student", "AI/ML Engineer", "Full Stack Dev"]
+    role        = ["AI/ML Engineer", "Backend Dev"]
     
     superpowers = [
         "Building LLM-powered applications",
-        "Designing interactive algorithm visualizers",
-        "Fine-tuning Transformers & training RNNs",
-        "Crafting fast, scalable REST APIs",
+        "Transformers & training RNNs",
+        "Crafting fast REST APIs",
         "Turning messy data → clean insights",
     ]
 
     current_quest = {
-        "learning"  : ["RAG Pipelines", "Agentic AI", "Graph Algorithms"],
+        "learning"  : ["RAG Pipelines", "Agentic AI"],
         "building"  : "AI-first full-stack products",
         "obsessed_with": "Making complex things beautifully simple",
     }
