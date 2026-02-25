@@ -117,6 +117,7 @@ class PrinceKoladiya:
 
 **Stack:** `JavaScript` `HTML5 Canvas` `CSS3` `Graph Theory`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://graph-algo-visualizer-three.vercel.app/)
 [![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/graph_algo_visualizer)
 
 ---
@@ -135,6 +136,7 @@ class PrinceKoladiya:
 
 **Stack:** `FastAPI` `MongoDB` `React` `TypeScript` `Vite` `Pydantic`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://snip-frontend.vercel.app/)
 [![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/snip_url)
 
 ---
@@ -153,6 +155,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `Streamlit` `HuggingFace` `Scikit-learn` `Plotly` `Pandas` `NLTK`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sentiment-dashboard-delta.vercel.app/)
 [![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/Movie_sentiment_analysis)
 
 ---
