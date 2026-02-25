@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0a0a2e,100:0d2a6e&height=260&section=header&text=Prince%20Koladiya&fontSize=72&fontAlignY=42&fontColor=00D9FF&fontAlign=50&desc=🧠%20ML%20Engineer%20•%20📊%20Data%20Scientist%20•%20⚙️%20Backend%20Developer&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn&descFontColor=ffffff"/>
 
 </div>
-0
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+Turning+raw+data+into+intelligent+systems;%F0%9F%A4%96+LLMs+%7C+Agents+%7C+Transformers+%7C+RAG;%F0%9F%8C%90+React+%7C+FastAPI+%7C+PyTorch+%7C+CrewAI;%F0%9F%8E%AF+Visualizing+the+invisible+in+algorithms;%F0%9F%9A%80+CS+Student+%E2%86%92+Building+the+Future" alt="Typing SVG" />
