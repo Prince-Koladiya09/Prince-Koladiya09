@@ -153,7 +153,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `Streamlit` `HuggingFace` `Scikit-learn` `Plotly` `Pandas` `NLTK`
 
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/sentiment_dashboard)
+[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/Movie_sentiment_analysis)
 
 ---
 
