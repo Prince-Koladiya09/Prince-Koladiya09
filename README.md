@@ -15,10 +15,6 @@
 <a href="https://github.com/Prince-Koladiya09">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://sortexplorer.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Prince-Koladiya09&style=for-the-badge&color=00D9FF&label=VISITORS"/>
 
 </div>
 
