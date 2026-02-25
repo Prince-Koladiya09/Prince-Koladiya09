@@ -67,7 +67,6 @@ class PrinceKoladiya:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME_XAI-8B5CF6?style=flat-square&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI_🤝-00C7B7?style=flat-square&logo=python&logoColor=white)
 
@@ -75,7 +74,7 @@ class PrinceKoladiya:
 
 ### 🌐 Frontend · Backend · APIs
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,flask,fastapi,html,css&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,fastapi&theme=dark&perline=9"/>
 
 <br/>
 
@@ -88,7 +87,7 @@ class PrinceKoladiya:
 
 ### 🗄️ Databases · Systems · Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp,java,git,github&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp,git,github&theme=dark&perline=6"/>
 
 </div>
 
