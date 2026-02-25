@@ -48,7 +48,6 @@ class PrinceKoladiya:
         "obsessed_with": "Making complex things beautifully simple",
     }
     
-    fun_fact = "I make sorting algorithms sing 🎵"
 
     def say_hi(self):
         print("Let's build something legendary. Together. 🚀")
