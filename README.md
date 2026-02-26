@@ -155,7 +155,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `Streamlit` `HuggingFace` `Scikit-learn` `Plotly` `Pandas` `NLTK`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sentiment-dashboard-delta.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sentiment-dashboard-new.vercel.app/)
 [![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/Movie_sentiment_analysis)
 
 ---
