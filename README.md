@@ -1,345 +1,586 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0a0a2e,100:0d2a6e&height=260&section=header&text=Prince%20Koladiya&fontSize=72&fontAlignY=42&fontColor=00D9FF&fontAlign=50&desc=🧠%20ML%20Engineer%20•%20📊%20Data%20Scientist%20•%20⚙️%20Backend%20Developer&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn&descFontColor=ffffff"/>
-
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+Turning+raw+data+into+intelligent+systems;%F0%9F%A4%96+LLMs+%7C+Agents+%7C+Transformers+%7C+RAG;%F0%9F%8C%90+Node.js+%7C+FastAPI+%7C+PyTorch+%7C+AWS;%F0%9F%8E%AF+Shipping+production+backend+systems;%F0%9F%9A%80+CS+Student+%E2%86%92+Building+the+Future" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/prince-koladiya-47782727a">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Prince-Koladiya09">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:pkoladiya6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
-
-## 🧠 `whoami`
-
-```python
-class PrinceKoladiya:
-
-    name        = "Prince Koladiya"
-    origin      = "India 🇮🇳"
-    role        = ["Backend Developer", "AI/ML Engineer"]
-
-    superpowers = [
-        "Shipping production backend systems for live clients",
-        "Building LLM-powered / RAG applications",
-        "Designing scalable REST APIs & microservices",
-        "Turning messy data → clean insights & forecasts",
-    ]
-
-    current_quest = {
-        "learning"      : ["Agentic AI", "Advanced RAG Pipelines"],
-        "building"      : "AI-first, production-grade full-stack products",
-        "program"       : "Amazon ML Summer School 2026 (~1% acceptance)",
-        "obsessed_with" : "Making complex systems beautifully simple",
-    }
-
-    def say_hi(self):
-        print("Let's build something legendary. Together. 🚀")
-```
-
-<br clear="right"/>
-
----
-
-## 💼 `experience --detailed`
-
-### ⚙️ Backend Developer @ YouthQit *(Remote, India | 2026 – Present)*
-
-> Backend developer for **YouthQit**, a B2B wholesale platform live on both the **Google Play Store** and **Apple App Store**, serving real client transactions in production.
-
-**Impact & Figures:**
-
-| Metric | Value |
-|---|---|
-| 💰 Revenue tracked (Reports module) | **₹9.5L+** |
-| 📦 Units sold | **560+** |
-| 🧾 Orders processed | **40+ orders / 3-month window** |
-| 🏪 Live client | **Raghav Enterprises** |
-| 📱 Platforms | Google Play Store + Apple App Store |
-
-**What I built:**
-- 🏗️ Architected and delivered a **production B2B wholesale e-commerce platform** end-to-end — from system design through deployment — covering multi-vendor catalogue management, order lifecycle tracking, and buyer-seller workflows.
-- 📊 Built a **Reports & Analytics module** with SKU-level product breakdowns and one-click **Excel export** for client-side reporting.
-- 🔐 Implemented a **multi-layer authentication & authorization system** using **Firebase Phone OTP** verification and **JWT-based RBAC**, distinguishing admin, seller, and buyer roles.
-- ☁️ Deployed and maintained the backend on **AWS Lightsail** with environment-based configuration management, **AWS S3** for secure media storage, **PDFKit** for automated invoice generation, and a **CI/CD pipeline** for automated testing and deployment on every push to `main`.
-
-**Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `AWS Lightsail` `AWS S3` `PDFKit` `JWT` `Firebase Admin`
-
----
-
-## ⚡ `tech --stack`
-
-<div align="center">
-
-### 🤖 AI · ML · NLP · Agents
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=6"/>
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
----
-
-### 🌐 Backend · APIs · Frontend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,ts,js&theme=dark&perline=9"/>
-
-<br/>
-
-![REST](https://img.shields.io/badge/REST_API-00D9FF?style=flat-square&logo=fastapi&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
----
-
-### 🗄️ Databases · Cloud · DevOps
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,nginx,git,github&theme=dark&perline=9"/>
-
-</div>
-
----
-
-## 🔥 `git log --exciting-projects`
-
-<div align="center">
-
-> *Where algorithms meet creativity and ideas become shipped products*
-
-</div>
-
----
-
-### 🤝 PairEdge — Collaborative Coding & Interview Prep Platform
-
-<img align="right" width="120" src="https://img.shields.io/badge/Realtime-Collab%20Platform-00D9FF?style=for-the-badge&logo=codesandbox&logoColor=white"/>
-
-> A **real-time collaborative platform** built for pair programming and technical interview practice, pairing developers together in a shared, low-latency coding environment.
-
-**What it does:**
-- 👥 Real-time synchronized code editor for two or more collaborators
-- 🎙️ Session-based rooms with role assignment (interviewer / candidate)
-- 📝 Shared notes and problem-statement panel alongside the live editor
-- ⚡ Low-latency sync built on WebSockets for a smooth pairing experience
-
-**Stack:** `Node.js` `WebSockets` `React` `MongoDB`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/pairedge)
-
----
-
-### 📰 InkSpace — Microservices Blog Platform
-
-<img align="right" width="120" src="https://img.shields.io/badge/Microservices-CMS-8B5CF6?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-> A **production-grade microservices CMS** with 11 independent services, engineered for high availability and asynchronous, event-driven content processing.
-
-**What it does:**
-- 🧩 **11 independent microservices** implementing the **circuit breaker pattern** and **distributed tracing**, achieving **99.9% uptime** across 5 databases and message queues
-- ⚙️ **Event-driven architecture** using **RabbitMQ** for asynchronous post indexing
-- ⚡ **72% reduction in API response latency**, with zero data loss via durable queues and automatic failover
-- 🔍 Full-text search powered by Elasticsearch, media storage via MinIO
-
-**Stack:** `Node.js` `Next.js` `Express` `MongoDB` `PostgreSQL` `Elasticsearch` `RabbitMQ` `MinIO` `Docker` `AWS`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/inkspace)
-
----
-
-### 📈 Demand Forecasting & Inventory Optimization
-
-<img align="right" width="120" src="https://img.shields.io/badge/Time%20Series-LSTM-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-> An **LSTM quantile regression** forecasting system paired with a **newsvendor inventory optimization** model, built on real-world retail data.
-
-**What it does:**
-- 📊 Forecasts demand at **P10 / P50 / P90** quantiles using LSTM-based quantile regression
-- 💹 Cuts **forecast error by 15%** on Rossmann / M5 retail benchmark datasets
-- 🔁 Automated data preprocessing & augmentation pipelines, reducing manual effort by **60%** and doubling experimentation throughput
-- 📦 Combines forecasts with a newsvendor model to recommend optimal inventory levels
-
-**Stack:** `Python` `PyTorch` `SARIMA` `Statsmodels` `SciPy` `Pandas` `NumPy`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/demand-forecasting)
-
----
-
-### 📄 Resume Screener — AI-Powered Candidate Matching
-
-<img align="right" width="120" src="https://img.shields.io/badge/NLP-Resume%20AI-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-
-> An **AI-driven resume screening tool** that parses resumes and ranks candidates against a job description using semantic similarity and LLM-based reasoning.
-
-**What it does:**
-- 📥 Parses resumes (PDF/DOCX) into structured candidate profiles
-- 🧠 Uses embedding-based semantic matching plus an LLM scoring layer to rank candidates against a job description
-- 🏷️ Highlights matched skills, gaps, and a fit score per candidate
-- 📤 Exports ranked shortlists for recruiters
-
-**Stack:** `Python` `FastAPI` `LangChain` `OpenAI/Anthropic APIs` `FAISS`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/resume-screener)
-
----
-
-### 💹 MF Analyst — Mutual Fund Analysis Tool
-
-<img align="right" width="120" src="https://img.shields.io/badge/FinTech-Analytics-8B5CF6?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
-> A **mutual fund analysis dashboard** that pulls fund data and surfaces performance, risk, and comparison insights for investors.
-
-**What it does:**
-- 📈 Tracks NAV trends, returns (CAGR/XIRR), and volatility across selected mutual funds
-- ⚖️ Side-by-side fund comparison with risk-adjusted return metrics
-- 📊 Interactive charts for historical performance and category benchmarking
-- 🗂️ Data pipeline for ingesting and cleaning fund data on a schedule
-
-**Stack:** `Python` `Pandas` `Streamlit/React` `REST APIs`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/mf-analyst)
-
----
-
-### 🤖 B2B RFP Agent — LLM-Powered Proposal Assistant
-
-<img align="right" width="120" src="https://img.shields.io/badge/Agentic%20AI-RFP%20Automation-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-
-> An **agentic RAG system** that reads incoming B2B RFP documents and drafts structured, requirement-aligned proposal responses.
-
-**What it does:**
-- 📑 Ingests RFP documents and extracts requirements, deadlines, and evaluation criteria
-- 🔎 Retrieves relevant past proposal content via a RAG pipeline to ground draft responses
-- ✍️ Auto-generates a structured first-draft proposal mapped section-by-section to RFP requirements
-- 🔁 Multi-step agent workflow with human-in-the-loop review before final export
-
-**Stack:** `Python` `LangGraph` `FAISS` `FastAPI` `LLM APIs`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/b2b-rfp-agent)
-
----
-
-### ✂️ SnipURL — Smart URL Shortener
-
-<img align="right" width="120" src="https://img.shields.io/badge/Full%20Stack-URL%20Tool-FF6B6B?style=for-the-badge&logo=link&logoColor=white"/>
-
-> A **full-stack URL shortening service** with 10+ production-ready features, deployed on production-grade AWS infrastructure.
-
-**What it does:**
-- 🔗 JWT and GitHub OAuth authentication, TTL-based link expiry, password-protected links
-- 📊 Real-time click analytics with 7-day trend charts
-- 📤 Bulk CSV upload and automated SMTP email digests
-- ☁️ AWS infrastructure with EC2 + PM2, S3 + CloudFront CDN, Nginx reverse proxy, and GitHub Actions CI/CD for **zero-downtime rolling deployments** and **99.9% uptime monitoring**
-
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `AWS (EC2, S3, CloudFront)` `Nginx` `PM2` `GitHub Actions` `JWT` `SMTP`
-
-[![View Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince-Koladiya09/snip_url)
-
----
-
-## 🧩 `expertise --matrix`
-
-<div align="center">
-
-| Domain | Proficiency | Highlights |
-|---|:---:|---|
-| 🔧 Backend & API Design | ⭐⭐⭐⭐⭐ | Node.js, Express, FastAPI, REST, GraphQL, JWT |
-| ☁️ Cloud & DevOps | ⭐⭐⭐⭐⭐ | AWS (S3, EC2, Lightsail, CloudFront), Docker, CI/CD |
-| 🧠 Applied Deep Learning | ⭐⭐⭐⭐ | LSTM forecasting, RNNs, Transformers, PyTorch |
-| 🤖 LLMs & Agentic AI | ⭐⭐⭐⭐ | RAG pipelines, LangChain, LangGraph, FAISS, BM25 |
-| 🗄️ Databases & Data Modeling | ⭐⭐⭐⭐ | MongoDB, MySQL, PostgreSQL, Redis, schema design |
-| 🧱 Distributed Systems | ⭐⭐⭐⭐ | Microservices, event-driven architecture, RabbitMQ |
-| 📊 Data Science & Analytics | ⭐⭐⭐⭐ | Pandas, NumPy, Scikit-learn, forecasting, reporting |
-
-</div>
-
----
-
-## 📊 `git stats --verbose`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_radius=12&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00D9FF&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Prince-Koladiya09&theme=tokyonight&hide_border=true&background=050510&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555577&border_radius=12" width="720"/>
-
-</div>
-
----
-
-## 🏆 `achievements --display`
-
-### 🥇 Amazon ML Summer School 2026 — Amazon India
-
-> Selected as **1 of ~3,000 students nationwide out of over 300,000 applicants (~1% acceptance rate)** for Amazon India's highly competitive, merit-based **Amazon ML Summer School 2026**.
-
-- 📚 Completed coursework in **supervised learning** (regression, classification, ensemble methods) and **unsupervised learning** (clustering, PCA-based dimensionality reduction)
-- 🔁 Studied **sequential modeling** and modern deep learning architectures — **RNNs, LSTMs, Transformers** — and the fundamentals of **Large Language Models (LLMs)**
-- 🏅 Recognized as part of a top-1% national merit cohort selected by Amazon India
-
-### 📜 Notable Achievements
-
-<div align="center">
-
-| Achievement | Issuer | Detail |
-|---|---|---|
-| 🥇 Amazon ML Summer School 2026 | Amazon India | ~1% acceptance rate (3,000 / 300,000+ applicants) |
-| ☁️ AWS Certified Developer – Associate | AWS Training & Certification | Exam preparation certified |
-| 🧠 Deep Learning with TensorFlow & PyTorch | Simplilearn | Certified |
-| ☁️ AWS SimuLearn: Cloud Computing Essentials | AWS Training & Certification | Mar 2026 |
-| 🤖 Google AI Essentials | Google | ML concepts, AI ethics, practical applications (2024) |
-| 🎓 Full Tuition Fee Waiver | PDEU | Awarded for outstanding academic performance (2023–2027) |
-| 🎤 IEEE AIMV — 2nd Int'l Conference | IEEE | Session Coordination Lead (2024) |
-| 🤝 Akshaya Patra Foundation CSSI | Akshaya Patra Foundation | Recognized by GM-HR, Gujarat Cluster (2024) |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prince-Koladiya09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="720"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:0d1f4f,80:0a0a2e,100:050510&height=140&section=footer&text=Open%20to%20Collabs%20%26%20Internships%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn"/>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prince Koladiya · Tech profile</title>
+    <!-- Font & icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #050510;
+            font-family: 'JetBrains Mono', monospace;
+            color: #c9d1d9;
+            line-height: 1.6;
+            padding: 2rem 1rem;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* matrix rain canvas – gentle tech backdrop */
+        #matrix-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+            opacity: 0.15;
+        }
+
+        .container {
+            max-width: 1100px;
+            width: 100%;
+            background: rgba(5, 5, 16, 0.75);
+            backdrop-filter: blur(2px);
+            border-radius: 32px;
+            padding: 2rem 2.5rem;
+            position: relative;
+            z-index: 2;
+            border: 1px solid rgba(0, 217, 255, 0.08);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+        }
+
+        /* ----- header / waving capsule (gentle) ----- */
+        .capsule-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .capsule-header h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #00D9FF 0%, #3a7bd5 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -0.02em;
+            text-shadow: 0 0 30px rgba(0, 217, 255, 0.2);
+            margin-bottom: 0.3rem;
+        }
+
+        .capsule-header .sub {
+            font-size: 1.1rem;
+            color: #8b9bb5;
+            letter-spacing: 2px;
+            display: flex;
+            justify-content: center;
+            gap: 1.2rem;
+            flex-wrap: wrap;
+        }
+
+        .capsule-header .sub span {
+            background: rgba(0, 217, 255, 0.06);
+            padding: 0.2rem 1.2rem;
+            border-radius: 40px;
+            border: 1px solid rgba(0, 217, 255, 0.1);
+        }
+
+        .typing-wrapper {
+            margin: 1.2rem 0 0.8rem;
+            font-size: 1.2rem;
+            color: #00D9FF;
+            font-weight: 600;
+            min-height: 2.8rem;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.2rem;
+            margin-top: 1.2rem;
+        }
+
+        .social-links a {
+            color: #c9d1d9;
+            font-size: 1.8rem;
+            transition: 0.2s ease;
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.04);
+        }
+
+        .social-links a:hover {
+            color: #00D9FF;
+            border-color: #00D9FF;
+            background: rgba(0, 217, 255, 0.06);
+            transform: translateY(-2px);
+        }
+
+        /* ----- sections ----- */
+        .section-title {
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin: 2.2rem 0 1.2rem 0;
+            color: #00D9FF;
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            border-bottom: 1px solid rgba(0, 217, 255, 0.15);
+            padding-bottom: 0.4rem;
+        }
+
+        .section-title i {
+            font-size: 1.4rem;
+            opacity: 0.8;
+        }
+
+        .code-block {
+            background: rgba(0, 217, 255, 0.03);
+            border-left: 3px solid #00D9FF;
+            padding: 1.2rem 1.6rem;
+            border-radius: 16px;
+            font-size: 0.95rem;
+            margin: 1rem 0 1.5rem 0;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-break: break-word;
+            color: #b0c4de;
+            border: 1px solid rgba(0, 217, 255, 0.08);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .code-block .kw { color: #00D9FF; }
+        .code-block .str { color: #ffb86b; }
+        .code-block .fn { color: #8be9fd; }
+        .code-block .cmt { color: #6272a4; }
+
+        /* experience cards */
+        .exp-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .exp-card {
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 20px;
+            padding: 1.5rem 1.8rem;
+            border: 1px solid rgba(0, 217, 255, 0.06);
+            transition: 0.2s;
+        }
+
+        .exp-card:hover {
+            border-color: rgba(0, 217, 255, 0.2);
+            background: rgba(0, 217, 255, 0.02);
+        }
+
+        .exp-card h3 {
+            font-size: 1.3rem;
+            color: #e6edf3;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .exp-card h3 small {
+            font-weight: 400;
+            font-size: 0.9rem;
+            color: #8b9bb5;
+        }
+
+        .exp-metrics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem 2rem;
+            margin: 0.8rem 0 0.6rem;
+            font-size: 0.9rem;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 0.6rem 1rem;
+            border-radius: 40px;
+        }
+
+        .exp-metrics span {
+            color: #8be9fd;
+        }
+
+        .exp-metrics i {
+            color: #00D9FF;
+            margin-right: 0.3rem;
+        }
+
+        .tech-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem 0.7rem;
+            margin-top: 0.8rem;
+        }
+
+        .tech-tags span {
+            background: rgba(0, 217, 255, 0.06);
+            padding: 0.15rem 1rem;
+            border-radius: 40px;
+            font-size: 0.75rem;
+            border: 1px solid rgba(0, 217, 255, 0.08);
+            color: #b0c4de;
+        }
+
+        /* skill icons */
+        .skill-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem 1rem;
+            margin: 0.4rem 0 0.8rem;
+            align-items: center;
+        }
+
+        .skill-group img {
+            height: 32px;
+            filter: drop-shadow(0 0 6px rgba(0,217,255,0.1));
+        }
+
+        .badge-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 0.5rem 0;
+        }
+
+        .badge-stack .badge {
+            background: rgba(0, 217, 255, 0.06);
+            padding: 0.2rem 1.2rem;
+            border-radius: 30px;
+            font-size: 0.8rem;
+            border: 1px solid rgba(0, 217, 255, 0.1);
+            color: #b0c4de;
+            transition: 0.1s;
+        }
+
+        .badge-stack .badge i {
+            margin-right: 0.3rem;
+            color: #00D9FF;
+        }
+
+        /* project cards */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .project-card {
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 20px;
+            padding: 1.5rem;
+            border: 1px solid rgba(0, 217, 255, 0.05);
+            transition: 0.2s;
+        }
+
+        .project-card:hover {
+            border-color: rgba(0, 217, 255, 0.2);
+            transform: translateY(-4px);
+            background: rgba(0, 217, 255, 0.02);
+        }
+
+        .project-card h4 {
+            color: #e6edf3;
+            font-size: 1.1rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .project-card h4 i {
+            color: #00D9FF;
+        }
+
+        .project-card p {
+            font-size: 0.9rem;
+            color: #8b9bb5;
+            margin: 0.6rem 0;
+        }
+
+        .project-card .tech {
+            font-size: 0.7rem;
+            opacity: 0.7;
+            letter-spacing: 0.5px;
+        }
+
+        .project-card .link-icon {
+            color: #00D9FF;
+            margin-top: 0.6rem;
+            display: inline-block;
+        }
+
+        /* matrix table */
+        .matrix-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+
+        .matrix-table td {
+            padding: 0.6rem 0.8rem;
+            border-bottom: 1px solid rgba(255,255,255,0.02);
+        }
+
+        .matrix-table .stars {
+            color: #00D9FF;
+            letter-spacing: 2px;
+        }
+
+        .matrix-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* footer */
+        .footer-note {
+            text-align: center;
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid rgba(0, 217, 255, 0.06);
+            color: #6272a4;
+            font-size: 0.9rem;
+        }
+
+        .footer-note i {
+            color: #00D9FF;
+        }
+
+        @media (max-width: 640px) {
+            .container { padding: 1.5rem; }
+            .capsule-header h1 { font-size: 2.8rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Matrix rain background (gentle) -->
+    <canvas id="matrix-bg"></canvas>
+
+    <div class="container">
+
+        <!-- HEADER -->
+        <div class="capsule-header">
+            <h1>Prince Koladiya</h1>
+            <div class="sub">
+                <span><i class="fas fa-brain" style="color:#00D9FF;"></i> ML Engineer</span>
+                <span><i class="fas fa-chart-line" style="color:#00D9FF;"></i> Data Scientist</span>
+                <span><i class="fas fa-cogs" style="color:#00D9FF;"></i> Backend Dev</span>
+            </div>
+            <div class="typing-wrapper">
+                <i class="fas fa-terminal" style="color:#00D9FF; opacity:0.6; margin-right:6px;"></i>
+                <span id="typing-text"></span>
+            </div>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="#"><i class="fas fa-envelope"></i></a>
+            </div>
+        </div>
+
+        <!-- whoami -->
+        <div class="section-title"><i class="fas fa-code"></i> whoami</div>
+        <div class="code-block">
+            <span class="kw">class</span> <span class="fn">PrinceKoladiya</span>:
+
+            <span class="kw">def</span> <span class="fn">__init__</span>(<span class="kw">self</span>):
+                <span class="kw">self</span>.name        = <span class="str">"Prince Koladiya"</span>
+                <span class="kw">self</span>.origin      = <span class="str">"India 🇮🇳"</span>
+                <span class="kw">self</span>.role        = [<span class="str">"Backend Developer"</span>, <span class="str">"AI/ML Engineer"</span>]
+                <span class="kw">self</span>.superpowers = [
+                    <span class="str">"Shipping production backend systems"</span>,
+                    <span class="str">"LLM-powered / RAG applications"</span>,
+                    <span class="str">"Scalable REST APIs & microservices"</span>,
+                ]
+                <span class="kw">self</span>.current_quest = {
+                    <span class="str">"learning"</span>      : [<span class="str">"Agentic AI"</span>, <span class="str">"Advanced RAG"</span>],
+                    <span class="str">"building"</span>      : <span class="str">"AI-first, production-grade products"</span>,
+                    <span class="str">"program"</span>       : <span class="str">"Amazon ML Summer School 2026"</span>,
+                }
+        </div>
+
+        <!-- experience -->
+        <div class="section-title"><i class="fas fa-briefcase"></i> experience · detailed</div>
+        <div class="exp-grid">
+            <div class="exp-card">
+                <h3>⚙️ Backend Developer @ YouthQit <small>Remote, India · 2026 – Present</small></h3>
+                <div class="exp-metrics">
+                    <span><i class="fas fa-coins"></i> ₹9.5L+ revenue tracked</span>
+                    <span><i class="fas fa-box"></i> 560+ units sold</span>
+                    <span><i class="fas fa-shopping-cart"></i> 40+ orders / 3mo</span>
+                    <span><i class="fas fa-store"></i> Live client: Raghav Enterprises</span>
+                </div>
+                <ul style="margin-left:1.2rem; color:#b0c4de; font-size:0.9rem; list-style-type:'▸ ';">
+                    <li>Architected B2B wholesale platform (Play Store + App Store)</li>
+                    <li>Reports & Analytics with SKU breakdown & Excel export</li>
+                    <li>Firebase Phone OTP + JWT RBAC (admin/seller/buyer)</li>
+                    <li>AWS Lightsail · S3 · PDFKit · CI/CD</li>
+                </ul>
+                <div class="tech-tags">
+                    <span>Node.js</span><span>Express</span><span>MongoDB</span><span>AWS</span><span>JWT</span><span>Firebase</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- tech stack -->
+        <div class="section-title"><i class="fas fa-microchip"></i> tech · stack</div>
+        <div style="display:flex; flex-wrap:wrap; gap:1.2rem 2rem; margin:0.6rem 0 0.8rem;">
+            <div><span style="color:#00D9FF;">AI · ML · NLP</span>
+                <div class="skill-group">
+                    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+                </div>
+                <div class="badge-stack">
+                    <span class="badge"><i class="fas fa-code"></i> LangChain</span>
+                    <span class="badge"><i class="fas fa-code"></i> LangGraph</span>
+                    <span class="badge"><i class="fas fa-code"></i> Scikit-Learn</span>
+                    <span class="badge"><i class="fas fa-code"></i> HuggingFace</span>
+                    <span class="badge"><i class="fas fa-code"></i> FAISS</span>
+                </div>
+            </div>
+            <div><span style="color:#00D9FF;">Backend · APIs</span>
+                <div class="skill-group">
+                    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,ts&theme=dark" />
+                </div>
+                <div class="badge-stack">
+                    <span class="badge"><i class="fas fa-cloud"></i> REST</span>
+                    <span class="badge"><i class="fas fa-cloud"></i> GraphQL</span>
+                    <span class="badge"><i class="fas fa-cloud"></i> JWT</span>
+                    <span class="badge"><i class="fas fa-cloud"></i> RabbitMQ</span>
+                </div>
+            </div>
+            <div><span style="color:#00D9FF;">DB · Cloud · DevOps</span>
+                <div class="skill-group">
+                    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,git&theme=dark" />
+                </div>
+            </div>
+        </div>
+
+        <!-- projects -->
+        <div class="section-title"><i class="fas fa-rocket"></i> git log --exciting-projects</div>
+        <div class="project-grid">
+            <div class="project-card"><h4>PairEdge <i class="fas fa-code"></i></h4><p>Real-time collaborative coding & interview prep platform with WebSocket sync.</p><div class="tech">Node.js · React · MongoDB · WebSockets</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+            <div class="project-card"><h4>InkSpace <i class="fas fa-microservices"></i></h4><p>11 microservices CMS with RabbitMQ, Elasticsearch, circuit breaker.</p><div class="tech">Node.js · Next.js · RabbitMQ · Docker</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+            <div class="project-card"><h4>Demand Forecast <i class="fas fa-chart-line"></i></h4><p>LSTM quantile regression + newsvendor inventory optimization.</p><div class="tech">PyTorch · Pandas · SciPy</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+            <div class="project-card"><h4>Resume Screener <i class="fas fa-file-alt"></i></h4><p>AI-powered candidate matching with RAG + LLM scoring.</p><div class="tech">FastAPI · LangChain · FAISS · OpenAI</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+            <div class="project-card"><h4>MF Analyst <i class="fas fa-chart-pie"></i></h4><p>Mutual fund analytics dashboard with NAV, CAGR, XIRR.</p><div class="tech">Python · Pandas · Streamlit</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+            <div class="project-card"><h4>B2B RFP Agent <i class="fas fa-robot"></i></h4><p>Agentic RAG system for drafting proposal responses.</p><div class="tech">LangGraph · FAISS · FastAPI · LLMs</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+            <div class="project-card"><h4>SnipURL <i class="fas fa-link"></i></h4><p>Full-stack URL shortener with analytics, OAuth, AWS infra.</p><div class="tech">React · Node.js · MongoDB · AWS</div><a href="#" class="link-icon"><i class="fab fa-github"></i> repo</a></div>
+        </div>
+
+        <!-- expertise matrix -->
+        <div class="section-title"><i class="fas fa-th"></i> expertise · matrix</div>
+        <table class="matrix-table">
+            <tr><td>🔧 Backend & API Design</td><td class="stars">⭐⭐⭐⭐⭐</td><td style="color:#8b9bb5;">Node, Express, FastAPI, REST, GraphQL</td></tr>
+            <tr><td>☁️ Cloud & DevOps</td><td class="stars">⭐⭐⭐⭐⭐</td><td style="color:#8b9bb5;">AWS, Docker, CI/CD</td></tr>
+            <tr><td>🧠 Applied Deep Learning</td><td class="stars">⭐⭐⭐⭐</td><td style="color:#8b9bb5;">LSTM, RNN, Transformers, PyTorch</td></tr>
+            <tr><td>🤖 LLMs & Agentic AI</td><td class="stars">⭐⭐⭐⭐</td><td style="color:#8b9bb5;">RAG, LangChain, LangGraph, FAISS</td></tr>
+            <tr><td>🗄️ Databases</td><td class="stars">⭐⭐⭐⭐</td><td style="color:#8b9bb5;">MongoDB, MySQL, PostgreSQL, Redis</td></tr>
+            <tr><td>🧱 Distributed Systems</td><td class="stars">⭐⭐⭐⭐</td><td style="color:#8b9bb5;">Microservices, event-driven, RabbitMQ</td></tr>
+        </table>
+
+        <!-- activity diagram (gentle ascii) -->
+        <div class="section-title"><i class="fas fa-project-diagram"></i> github activity · diagram</div>
+        <div style="background: rgba(0,217,255,0.03); border-radius: 20px; padding: 1rem 1.5rem; border: 1px solid rgba(0,217,255,0.06); font-size: 0.75rem; color:#8b9bb5; overflow-x:auto; font-family: monospace; white-space: pre-wrap; letter-spacing: 0.5px;">
+            <span style="color:#00D9FF;">●</span> main ──┬─ <span style="color:#8be9fd;">feat/reports</span> ── <span style="color:#00D9FF;">●</span> merged  <span style="color:#6272a4;">#42</span>
+                    ├─ <span style="color:#8be9fd;">bugfix/auth</span> ── <span style="color:#00D9FF;">●</span> merged  <span style="color:#6272a4;">#38</span>
+                    ├─ <span style="color:#8be9fd;">ci/cd-pipeline</span> ── <span style="color:#00D9FF;">●</span> merged  <span style="color:#6272a4;">#55</span>
+                    └─ <span style="color:#8be9fd;">experiment/llm</span> ── <span style="color:#00D9FF;">●</span> open     <span style="color:#6272a4;">#61</span>
+            <span style="color:#6272a4;">[2026-08-11]  ·  active branches: 4  ·  commits: 128  ·  PRs: 7</span>
+        </div>
+
+        <!-- achievements -->
+        <div class="section-title"><i class="fas fa-trophy"></i> achievements</div>
+        <div style="display:flex; flex-wrap:wrap; gap:0.6rem 1.2rem; margin-bottom:0.5rem;">
+            <span style="background:rgba(0,217,255,0.05); padding:0.3rem 1.2rem; border-radius:40px; border:1px solid rgba(0,217,255,0.08);"><i class="fas fa-medal" style="color:#FFD700;"></i> Amazon ML Summer School 2026 · ~1%</span>
+            <span style="background:rgba(0,217,255,0.05); padding:0.3rem 1.2rem; border-radius:40px; border:1px solid rgba(0,217,255,0.08);"><i class="fas fa-cloud" style="color:#00D9FF;"></i> AWS Certified Developer – Associate</span>
+            <span style="background:rgba(0,217,255,0.05); padding:0.3rem 1.2rem; border-radius:40px; border:1px solid rgba(0,217,255,0.08);"><i class="fas fa-graduation-cap"></i> Full Tuition Waiver · PDEU</span>
+        </div>
+
+        <!-- footer -->
+        <div class="footer-note">
+            <i class="fas fa-terminal"></i>  Prince Koladiya · 2026  ·  <i class="fas fa-code"></i> built with ☕ &amp; focus
+        </div>
+
+    </div>
+
+    <script>
+        // Gentle matrix rain – tech background
+        (function() {
+            const canvas = document.getElementById('matrix-bg');
+            const ctx = canvas.getContext('2d');
+            let w, h, columns, drops = [];
+            const chars = "0123456789ABCDEF".split("");
+
+            function resize() {
+                w = canvas.width = window.innerWidth;
+                h = canvas.height = window.innerHeight;
+                columns = Math.floor(w / 18);
+                drops = Array(columns).fill(1);
+            }
+            window.addEventListener('resize', resize);
+            resize();
+
+            function draw() {
+                ctx.fillStyle = 'rgba(5,5,16,0.035)';
+                ctx.fillRect(0, 0, w, h);
+                ctx.font = '16px monospace';
+                ctx.fillStyle = '#00D9FF';
+                for (let i = 0; i < drops.length; i++) {
+                    const text = chars[Math.floor(Math.random() * chars.length)];
+                    const x = i * 18;
+                    const y = drops[i] * 18;
+                    ctx.globalAlpha = 0.15 + Math.random() * 0.2;
+                    ctx.fillText(text, x, y);
+                    if (y > h && Math.random() > 0.975) {
+                        drops[i] = 0;
+                    }
+                    drops[i] += 0.45 + Math.random() * 0.3;
+                }
+                requestAnimationFrame(draw);
+            }
+            draw();
+
+            // typing effect
+            const phrases = [
+                "🔥 Turning raw data into intelligent systems",
+                "🤖 LLMs · Agents · Transformers · RAG",
+                "🌐 Node.js · FastAPI · PyTorch · AWS",
+                "🎯 Shipping production backend systems",
+                "🚀 CS Student → Building the Future"
+            ];
+            let idx = 0, charIdx = 0, isDeleting = false;
+            const el = document.getElementById('typing-text');
+            function type() {
+                const current = phrases[idx];
+                if (!isDeleting) {
+                    el.textContent = current.slice(0, charIdx++);
+                    if (charIdx > current.length) {
+                        isDeleting = true;
+                        setTimeout(type, 1800);
+                        return;
+                    }
+                } else {
+                    el.textContent = current.slice(0, charIdx--);
+                    if (charIdx < 0) {
+                        isDeleting = false;
+                        idx = (idx + 1) % phrases.length;
+                        setTimeout(type, 300);
+                        return;
+                    }
+                }
+                setTimeout(type, isDeleting ? 40 : 80);
+            }
+            type();
+        })();
+    </script>
+</body>
+</html>
