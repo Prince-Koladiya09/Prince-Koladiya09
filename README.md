@@ -276,19 +276,6 @@ class PrinceKoladiya:
 
 ---
 
-## 📊 `git stats --verbose`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_radius=12&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00D9FF&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Prince-Koladiya09&theme=tokyonight&hide_border=true&background=050510&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555577&border_radius=12" width="720"/>
-
-</div>
-
 ---
 
 ## 🌐 `github activity --diagram`
@@ -329,12 +316,6 @@ class PrinceKoladiya:
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prince-Koladiya09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-
-</div>
 
 ---
 
