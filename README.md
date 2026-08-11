@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
 ## 🧠 `whoami`
 
@@ -286,10 +286,6 @@ class PrinceKoladiya:
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Prince-Koladiya09&theme=tokyonight&hide_border=true&background=050510&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555577&border_radius=12" width="720"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Prince%27s%20Contribution%20Graph&bg_color=050510&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true&hide_border=true&border_radius=12" width="100%"/>
 
 </div>
 
