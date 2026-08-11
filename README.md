@@ -293,14 +293,11 @@ class PrinceKoladiya:
 
 ## 🌐 `github activity --diagram`
 
-```
-●  main ──┬─ feat/reports        ── ●  merged   #42
-          ├─ bugfix/auth         ── ●  merged   #38
-          ├─ ci/cd-pipeline      ── ●  merged   #55
-          └─ experiment/llm      ── ●  open     #61
+<div align="center">
 
-[2026-08-11]  ·  active branches: 4  ·  commits: 128  ·  PRs: 7
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Prince%27s%20Contribution%20Graph&bg_color=050510&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true&hide_border=true&border_radius=12" width="100%"/>
+
+</div>
 
 ---
 
