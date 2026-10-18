@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,45:1A2540,100:7A2E45&height=300&section=header&text=PRINCE%20KOLADIYA&fontSize=68&fontAlignY=42&fontColor=F2F4F8&stroke=E0566B&strokeWidth=1&desc=ML%20ENGINEER%20%C2%B7%20DATA%20SCIENTIST%20%C2%B7%20BACKEND%20DEVELOPER&descAlignY=64&descSize=16&descFontColor=F0C6CF&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=7FB8E6&center=true&vCenter=true&width=820&lines=%3E+turning+raw+data+into+intelligent+systems;%3E+LLMs+%7C+Agents+%7C+RAG+%7C+Evaluation+Harnesses;%3E+Node.js+%7C+FastAPI+%7C+PyTorch+%7C+AWS;%3E+shipping+production+backend+systems;%3E+CS+student+%E2%86%92+building+the+future" alt="Typing SVG" />
+<img width="100%" src="assets/header.svg" alt="Prince Koladiya - ML Engineer, Data Scientist, Backend Developer"/>
 
 <br/>
 
