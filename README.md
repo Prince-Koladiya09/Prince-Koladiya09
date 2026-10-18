@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33624109/README.1.md)
 <div align="center">
 
 <img width="100%" src="assets/header.svg" alt="Prince Koladiya - ML Engineer, Data Scientist, Backend Developer"/>
