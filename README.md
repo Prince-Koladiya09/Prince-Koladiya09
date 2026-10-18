@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/AMAZON_ML_SUMMER_SCHOOL-2026-0F1724?style=flat-square&logo=amazon&logoColor=7FB8E6&labelColor=0F1724&color=7FB8E6"/>
 <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_%26_COLLABS-0F1724?style=flat-square&labelColor=0F1724&color=E0566B"/>
-<img src="https://img.shields.io/badge/BASED_IN-INDIA_%F0%9F%87%AE%F0%9F%87%B3-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A"/>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A"/>
 
 </div>
 
@@ -66,35 +66,9 @@ An **evaluation-first AI customer-support agent** built for the Hiver SDE Intern
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%A7%A0%20WHOAMI&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 </div>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
-
-```python
-class PrinceKoladiya:
-
-    name        = "Prince Koladiya"
-    origin      = "India 🇮🇳"
-    role        = ["Backend Developer", "AI/ML Engineer"]
-
-    superpowers = [
-        "Shipping production backend systems for live clients",
-        "Building LLM-powered / RAG applications",
-        "Evaluating AI systems with golden sets, not vibes",
-        "Designing scalable REST APIs & microservices",
-        "Turning messy data → clean insights & forecasts",
-    ]
-
-    current_quest = {
-        "learning"      : ["Agentic AI", "Advanced RAG Pipelines"],
-        "building"      : "AI-first, production-grade full-stack products",
-        "program"       : "Amazon ML Summer School 2026 (~1% acceptance)",
-        "obsessed_with" : "Making complex systems beautifully simple",
-    }
-
-    def say_hi(self):
-        print("Let's build something legendary. Together. 🚀")
-```
-
-<br clear="right"/>
+<div align="center">
+<img src="assets/whoami.svg" width="100%" alt="whoami - Prince Koladiya"/>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
@@ -336,14 +310,6 @@ class PrinceKoladiya:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%8C%90%20CONTRIBUTION%20GRAPH&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Prince%27s%20Contribution%20Graph&bg_color=0B1220&color=7FB8E6&line=F2A65A&point=E0566B&area_color=F2A65A&area=true&hide_border=true&border_radius=12" width="100%"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 </div>
 
@@ -373,6 +339,19 @@ class PrinceKoladiya:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="720"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%93%8A%20COMMIT%20ACTIVITY&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days&bg_color=0B1220&color=7FB8E6&line=E0566B&point=F2A65A&area_color=E0566B&area=true&hide_border=true&border_radius=12" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Koladiya09&theme=tokyonight&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Koladiya09&theme=tokyonight" width="49%"/>
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A2E45,50:1A2540,100:0B1220&height=150&section=footer&text=Open%20to%20Collabs%20%26%20Internships%20%F0%9F%9A%80&fontSize=22&fontColor=7FB8E6&fontAlign=50&fontAlignY=55&animation=fadeIn"/>
