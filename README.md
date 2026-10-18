@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/33624109/README.1.md)
 <div align="center">
 
 <img width="100%" src="assets/header.svg" alt="Prince Koladiya - ML Engineer, Data Scientist, Backend Developer"/>
@@ -345,14 +346,18 @@ An **evaluation-first AI customer-support agent** built for the Hiver SDE Intern
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%93%8A%20COMMIT%20ACTIVITY&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days&bg_color=0B1220&color=7FB8E6&line=E0566B&point=F2A65A&area_color=E0566B&area=true&hide_border=true&border_radius=12" width="100%"/>
+<img src="assets/commit-year.svg" width="100%" alt="Commit activity for the last 12 months"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Koladiya09&theme=tokyonight&utcOffset=5.5" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Koladiya09&theme=tokyonight" width="49%"/>
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-Koladiya09&theme=tokyonight&utcOffset=5.5" width="100%" alt="Commits by hour of day"/></td>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-Koladiya09&theme=tokyonight" width="100%" alt="Top languages by commit"/></td>
+</tr>
+</table>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A2E45,50:1A2540,100:0B1220&height=150&section=footer&text=Open%20to%20Collabs%20%26%20Internships%20%F0%9F%9A%80&fontSize=22&fontColor=7FB8E6&fontAlign=50&fontAlignY=55&animation=fadeIn"/>
+<img src="assets/footer.svg" width="100%" alt="Open to collabs and internships"/>
 </div>
