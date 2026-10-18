@@ -1,35 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:12002E,100:3B0A7A&height=300&section=header&text=PRINCE%20KOLADIYA&fontSize=68&fontAlignY=42&fontColor=00F0FF&stroke=FF2E97&strokeWidth=1&desc=ML%20ENGINEER%20%C2%B7%20DATA%20SCIENTIST%20%C2%B7%20BACKEND%20DEVELOPER&descAlignY=64&descSize=16&descFontColor=B9A7FF&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,45:1A2540,100:7A2E45&height=300&section=header&text=PRINCE%20KOLADIYA&fontSize=68&fontAlignY=42&fontColor=F2F4F8&stroke=E0566B&strokeWidth=1&desc=ML%20ENGINEER%20%C2%B7%20DATA%20SCIENTIST%20%C2%B7%20BACKEND%20DEVELOPER&descAlignY=64&descSize=16&descFontColor=F0C6CF&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=00F0FF&center=true&vCenter=true&width=820&lines=%3E+turning+raw+data+into+intelligent+systems;%3E+LLMs+%7C+Agents+%7C+RAG+%7C+Evaluation+Harnesses;%3E+Node.js+%7C+FastAPI+%7C+PyTorch+%7C+AWS;%3E+shipping+production+backend+systems;%3E+CS+student+%E2%86%92+building+the+future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=7FB8E6&center=true&vCenter=true&width=820&lines=%3E+turning+raw+data+into+intelligent+systems;%3E+LLMs+%7C+Agents+%7C+RAG+%7C+Evaluation+Harnesses;%3E+Node.js+%7C+FastAPI+%7C+PyTorch+%7C+AWS;%3E+shipping+production+backend+systems;%3E+CS+student+%E2%86%92+building+the+future" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://linkedin.com/in/prince-koladiya-47782727a"><img src="https://img.shields.io/badge/LinkedIn-0A0A14?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0A14&color=0A0A14"/></a>
-<a href="https://github.com/Prince-Koladiya09"><img src="https://img.shields.io/badge/GitHub-0A0A14?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0A0A14&color=0A0A14"/></a>
-<a href="mailto:pkoladiya6@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A14?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0A0A14&color=0A0A14"/></a>
-<img src="https://komarev.com/ghpvc/?username=Prince-Koladiya09&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0A0A14"/>
+<a href="https://linkedin.com/in/prince-koladiya-47782727a"><img src="https://img.shields.io/badge/LinkedIn-0F1724?style=for-the-badge&logo=linkedin&logoColor=7FB8E6&labelColor=0F1724&color=0F1724"/></a>
+<a href="https://github.com/Prince-Koladiya09"><img src="https://img.shields.io/badge/GitHub-0F1724?style=for-the-badge&logo=github&logoColor=E0566B&labelColor=0F1724&color=0F1724"/></a>
+<a href="mailto:pkoladiya6@gmail.com"><img src="https://img.shields.io/badge/Email-0F1724?style=for-the-badge&logo=gmail&logoColor=F2A65A&labelColor=0F1724&color=0F1724"/></a>
+<img src="https://komarev.com/ghpvc/?username=Prince-Koladiya09&color=7FB8E6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F1724"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AMAZON_ML_SUMMER_SCHOOL-2026-0A0A14?style=flat-square&logo=amazon&logoColor=00F0FF&labelColor=0A0A14&color=00F0FF"/>
-<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_%26_COLLABS-0A0A14?style=flat-square&labelColor=0A0A14&color=FF2E97"/>
-<img src="https://img.shields.io/badge/BASED_IN-INDIA_%F0%9F%87%AE%F0%9F%87%B3-0A0A14?style=flat-square&labelColor=0A0A14&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/AMAZON_ML_SUMMER_SCHOOL-2026-0F1724?style=flat-square&logo=amazon&logoColor=7FB8E6&labelColor=0F1724&color=7FB8E6"/>
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_%26_COLLABS-0F1724?style=flat-square&labelColor=0F1724&color=E0566B"/>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA_%F0%9F%87%AE%F0%9F%87%B3-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%E2%9A%A1%20FEATURED%20%E2%80%94%20LATEST%20BUILDS&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%E2%9A%A1%20FEATURED%20%E2%80%94%20LATEST%20BUILDS&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 Ticket Hub &nbsp; ![new](https://img.shields.io/badge/NEW-FF2E97?style=flat-square&labelColor=0A0A14)
+### 🎫 Ticket Hub &nbsp; ![new](https://img.shields.io/badge/NEW-E0566B?style=flat-square&labelColor=0F1724)
 
 A **full-stack ticketing platform** built around clean workflows, secure access, and a scalable API layer. <!-- VERIFY: replace with a 1-line description from your repo README -->
 
@@ -40,12 +40,12 @@ A **full-stack ticketing platform** built around clean workflows, secure access,
 
 `Node.js` `Express` `MongoDB` `React` <!-- VERIFY: update to your real stack -->
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=00F0FF)](https://github.com/Prince-Koladiya09/Ticket_Hub)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=7FB8E6)](https://github.com/Prince-Koladiya09/Ticket_Hub)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Hiver Support Agent &nbsp; ![new](https://img.shields.io/badge/NEW-FF2E97?style=flat-square&labelColor=0A0A14)
+### 🤖 Hiver Support Agent &nbsp; ![new](https://img.shields.io/badge/NEW-E0566B?style=flat-square&labelColor=0F1724)
 
 An **evaluation-first AI customer-support agent** built for the Hiver SDE Intern take-home, working on real customer-support tweets.
 
@@ -56,16 +56,16 @@ An **evaluation-first AI customer-support agent** built for the Hiver SDE Intern
 
 `Python` `scikit-learn` `Embeddings / Retrieval` `LLM APIs` <!-- VERIFY: update to your real stack -->
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0A0A14&color=FF2E97)](https://github.com/Prince-Koladiya09/hiver_support_agent)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=E0566B&labelColor=0F1724&color=E0566B)](https://github.com/Prince-Koladiya09/hiver_support_agent)
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%A7%A0%20WHOAMI&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%A7%A0%20WHOAMI&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 </div>
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
@@ -98,23 +98,23 @@ class PrinceKoladiya:
 
 <br clear="right"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%93%88%20LIVE%20STATS&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%93%88%20LIVE%20STATS&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&hide_border=false&border_color=1B1535&bg_color=05030D&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&ring_color=8B5CF6&border_radius=14"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&hide_border=false&border_color=1B1535&bg_color=05030D&title_color=00F0FF&text_color=C9D1D9&border_radius=14"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Prince-Koladiya09&show_icons=true&hide_border=false&border_color=25324D&bg_color=0B1220&title_color=7FB8E6&icon_color=E0566B&text_color=E6EAF2&ring_color=F2A65A&border_radius=14"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Koladiya09&layout=compact&hide_border=false&border_color=25324D&bg_color=0B1220&title_color=7FB8E6&text_color=E6EAF2&border_radius=14"/>
 
-<img src="https://streak-stats.demolab.com?user=Prince-Koladiya09&background=05030D&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=1B1535&border=1B1535&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=Prince-Koladiya09&background=0B1220&ring=7FB8E6&fire=E0566B&currStreakLabel=7FB8E6&sideLabels=E6EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA7BD&stroke=25324D&border=25324D&hide_border=false"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Prince-Koladiya09&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 </div>
 
 ### ⚙️ Backend Developer @ YouthQit *(Remote, India | 2026 – Present)*
@@ -142,10 +142,10 @@ class PrinceKoladiya:
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%E2%9A%A1%20TECH%20STACK&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%E2%9A%A1%20TECH%20STACK&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 
 #### 🤖 AI · ML · NLP · Agents
 
@@ -153,23 +153,23 @@ class PrinceKoladiya:
 
 <br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-0A0A14?style=flat-square&logo=langchain&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A14?style=flat-square&labelColor=0A0A14&color=1B1535)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0A0A14?style=flat-square&logo=scikit-learn&logoColor=F7931E&labelColor=0A0A14&color=1B1535)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A14?style=flat-square&logoColor=FFD21E&labelColor=0A0A14&color=1B1535)
-![FAISS](https://img.shields.io/badge/FAISS-0A0A14?style=flat-square&labelColor=0A0A14&color=1B1535)
-![Pydantic](https://img.shields.io/badge/Pydantic-0A0A14?style=flat-square&logo=pydantic&logoColor=E92063&labelColor=0A0A14&color=1B1535)
+![LangChain](https://img.shields.io/badge/LangChain-0F1724?style=flat-square&logo=langchain&logoColor=7FB8E6&labelColor=0F1724&color=25324D)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F1724?style=flat-square&labelColor=0F1724&color=25324D)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0F1724?style=flat-square&logo=scikit-learn&logoColor=F7931E&labelColor=0F1724&color=25324D)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0F1724?style=flat-square&logoColor=FFD21E&labelColor=0F1724&color=25324D)
+![FAISS](https://img.shields.io/badge/FAISS-0F1724?style=flat-square&labelColor=0F1724&color=25324D)
+![Pydantic](https://img.shields.io/badge/Pydantic-0F1724?style=flat-square&logo=pydantic&logoColor=E92063&labelColor=0F1724&color=25324D)
 
 #### 🧪 Evaluation · Retrieval · Support Automation
 
-![Intent Classification](https://img.shields.io/badge/Intent_Classification-0A0A14?style=flat-square&labelColor=0A0A14&color=8B5CF6)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-0A0A14?style=flat-square&labelColor=0A0A14&color=8B5CF6)
-![Embeddings](https://img.shields.io/badge/Embeddings_%26_Semantic_Search-0A0A14?style=flat-square&labelColor=0A0A14&color=8B5CF6)
-![Grounded Generation](https://img.shields.io/badge/Grounded_Reply_Generation-0A0A14?style=flat-square&labelColor=0A0A14&color=8B5CF6)
-![Escalation Routing](https://img.shields.io/badge/Escalation_Routing-0A0A14?style=flat-square&labelColor=0A0A14&color=8B5CF6)
-![Golden Sets](https://img.shields.io/badge/Golden_Set_Evaluation-0A0A14?style=flat-square&labelColor=0A0A14&color=FF2E97)
-![LLM Judge](https://img.shields.io/badge/LLM--as--Judge-0A0A14?style=flat-square&labelColor=0A0A14&color=FF2E97)
-![Failure Analysis](https://img.shields.io/badge/Failure_Mode_Analysis-0A0A14?style=flat-square&labelColor=0A0A14&color=FF2E97)
+![Intent Classification](https://img.shields.io/badge/Intent_Classification-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A)
+![Embeddings](https://img.shields.io/badge/Embeddings_%26_Semantic_Search-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A)
+![Grounded Generation](https://img.shields.io/badge/Grounded_Reply_Generation-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A)
+![Escalation Routing](https://img.shields.io/badge/Escalation_Routing-0F1724?style=flat-square&labelColor=0F1724&color=F2A65A)
+![Golden Sets](https://img.shields.io/badge/Golden_Set_Evaluation-0F1724?style=flat-square&labelColor=0F1724&color=E0566B)
+![LLM Judge](https://img.shields.io/badge/LLM--as--Judge-0F1724?style=flat-square&labelColor=0F1724&color=E0566B)
+![Failure Analysis](https://img.shields.io/badge/Failure_Mode_Analysis-0F1724?style=flat-square&labelColor=0F1724&color=E0566B)
 
 #### 🌐 Backend · APIs · Frontend
 
@@ -177,12 +177,12 @@ class PrinceKoladiya:
 
 <br/>
 
-![REST](https://img.shields.io/badge/REST_API-0A0A14?style=flat-square&labelColor=0A0A14&color=00F0FF)
-![GraphQL](https://img.shields.io/badge/GraphQL-0A0A14?style=flat-square&logo=graphql&logoColor=E10098&labelColor=0A0A14&color=1B1535)
-![JWT](https://img.shields.io/badge/JWT-0A0A14?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0A0A14&color=1B1535)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0A0A14?style=flat-square&logo=rabbitmq&logoColor=FF6600&labelColor=0A0A14&color=1B1535)
-![WebSockets](https://img.shields.io/badge/WebSockets-0A0A14?style=flat-square&labelColor=0A0A14&color=00F0FF)
-![RBAC](https://img.shields.io/badge/Auth_%26_RBAC-0A0A14?style=flat-square&labelColor=0A0A14&color=00F0FF)
+![REST](https://img.shields.io/badge/REST_API-0F1724?style=flat-square&labelColor=0F1724&color=7FB8E6)
+![GraphQL](https://img.shields.io/badge/GraphQL-0F1724?style=flat-square&logo=graphql&logoColor=E10098&labelColor=0F1724&color=25324D)
+![JWT](https://img.shields.io/badge/JWT-0F1724?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0F1724&color=25324D)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0F1724?style=flat-square&logo=rabbitmq&logoColor=FF6600&labelColor=0F1724&color=25324D)
+![WebSockets](https://img.shields.io/badge/WebSockets-0F1724?style=flat-square&labelColor=0F1724&color=7FB8E6)
+![RBAC](https://img.shields.io/badge/Auth_%26_RBAC-0F1724?style=flat-square&labelColor=0F1724&color=7FB8E6)
 
 #### 🗄️ Databases · Cloud · DevOps
 
@@ -190,10 +190,10 @@ class PrinceKoladiya:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%94%A5%20MORE%20PROJECTS&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%94%A5%20MORE%20PROJECTS&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 
 <sub><i>Where algorithms meet creativity and ideas become shipped products — click to expand</i></sub>
 </div>
@@ -211,7 +211,7 @@ class PrinceKoladiya:
 
 **Stack:** `Node.js` `WebSockets` `React` `MongoDB`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/pairedge)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/pairedge)
 
 </details>
 
@@ -228,7 +228,7 @@ class PrinceKoladiya:
 
 **Stack:** `Node.js` `Next.js` `Express` `MongoDB` `PostgreSQL` `Elasticsearch` `RabbitMQ` `MinIO` `Docker` `AWS`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/inkspace)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/inkspace)
 
 </details>
 
@@ -245,7 +245,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `PyTorch` `SARIMA` `Statsmodels` `SciPy` `Pandas` `NumPy`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/demand-forecasting)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/demand-forecasting)
 
 </details>
 
@@ -262,7 +262,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `FastAPI` `LangChain` `OpenAI/Anthropic APIs` `FAISS`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/resume-screener)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/resume-screener)
 
 </details>
 
@@ -279,7 +279,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `Pandas` `Streamlit/React` `REST APIs`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/mf-analyst)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/mf-analyst)
 
 </details>
 
@@ -296,7 +296,7 @@ class PrinceKoladiya:
 
 **Stack:** `Python` `LangGraph` `FAISS` `FastAPI` `LLM APIs`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/b2b-rfp-agent)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/b2b-rfp-agent)
 
 </details>
 
@@ -313,14 +313,14 @@ class PrinceKoladiya:
 
 **Stack:** `React` `Node.js` `Express.js` `MongoDB` `AWS (EC2, S3, CloudFront)` `Nginx` `PM2` `GitHub Actions` `JWT` `SMTP`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-0A0A14?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0A14&color=1B1535)](https://github.com/Prince-Koladiya09/snip_url)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-0F1724?style=for-the-badge&logo=github&logoColor=7FB8E6&labelColor=0F1724&color=25324D)](https://github.com/Prince-Koladiya09/snip_url)
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%A7%A9%20EXPERTISE%20MATRIX&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%A7%A9%20EXPERTISE%20MATRIX&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 
 | Domain | Proficiency | Highlights |
 |---|:---:|---|
@@ -335,18 +335,18 @@ class PrinceKoladiya:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%8C%90%20CONTRIBUTION%20GRAPH&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%8C%90%20CONTRIBUTION%20GRAPH&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Prince%27s%20Contribution%20Graph&bg_color=05030D&color=00F0FF&line=8B5CF6&point=FF2E97&area_color=8B5CF6&area=true&hide_border=true&border_radius=12" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Koladiya09&custom_title=Prince%27s%20Contribution%20Graph&bg_color=0B1220&color=7FB8E6&line=F2A65A&point=E0566B&area_color=F2A65A&area=true&hide_border=true&border_radius=12" width="100%"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0566B,50:7FB8E6,100:E0566B&height=2&section=header"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A14,100:12002E&height=46&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=20&fontColor=00F0FF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1724,100:1A2540&height=46&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=20&fontColor=7FB8E6&fontAlignY=55"/>
 </div>
 
 ### 🥇 Amazon ML Summer School 2026 — Amazon India
@@ -377,5 +377,5 @@ class PrinceKoladiya:
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0A7A,50:12002E,100:000000&height=150&section=footer&text=Open%20to%20Collabs%20%26%20Internships%20%F0%9F%9A%80&fontSize=22&fontColor=00F0FF&fontAlign=50&fontAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A2E45,50:1A2540,100:0B1220&height=150&section=footer&text=Open%20to%20Collabs%20%26%20Internships%20%F0%9F%9A%80&fontSize=22&fontColor=7FB8E6&fontAlign=50&fontAlignY=55&animation=fadeIn"/>
 </div>
